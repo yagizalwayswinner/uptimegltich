@@ -1,0 +1,22 @@
+{
+"bot":{
+"token": "ODM0NzU2MTg4Mjg0NTE4NDEw.YIFhSA.254kchEqpUInlagIfTDNij2Y6vg",
+"prefix": ".",
+"developer": "806839429960302622", 
+"mongooseConnectLink": "mongodb+srv://yagizuptimebot:yagizuptimebot@cluster0.kycan.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+},
+
+"roles":{
+"premiumRole": "807763235914514432",
+"moderatorRole": "845928313251430451"
+},
+
+"channels": {
+"uptimeLog": "845928373602484234"
+},
+
+"emojis":{
+"ticEmoji": "798321683386859560",
+"crossEmoji": "790620122489946132"
+}
+}
